@@ -1,5 +1,5 @@
 ### cic102-07第一次git
-
+#### ver 2.0
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
 - Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
@@ -167,13 +167,7 @@ Image:
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 > 图为：厦门白城沙滩 Xiamen
-
-图片加链接 (Image + Link)：
-
-[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")
-
-> 图为：李健首张专辑《似水流年》封面
-                
+    
 ----
 
 ###Lists
